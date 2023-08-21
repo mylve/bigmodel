@@ -1,0 +1,2 @@
+# bigmodel
+study for llm
